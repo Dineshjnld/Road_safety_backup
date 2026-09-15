@@ -55,3 +55,4 @@ backend/.server-*.log
 # Archive may contain large local exports; ignore heavy binaries inside archive
 _archive/data-exports/*.xlsx
 _archive/logs/
+road-accident-backup-2026-07-28-17-26-29.json
